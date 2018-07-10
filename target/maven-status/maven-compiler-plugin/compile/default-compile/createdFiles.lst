@@ -1,0 +1,5 @@
+hu/pe/nes/sendemail/SendEmailApplication.class
+hu/pe/nes/sendemail/service/EmailServiceImpl.class
+hu/pe/nes/sendemail/controller/SendeMailController.class
+hu/pe/nes/sendemail/service/SendEmailService.class
+hu/pe/nes/sendemail/modal/EmailModal.class

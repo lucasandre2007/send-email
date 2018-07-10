@@ -1,0 +1,5 @@
+/home/lucas/Digital/spring-boot/send-email/src/main/java/hu/pe/nes/sendemail/service/SendEmailService.java
+/home/lucas/Digital/spring-boot/send-email/src/main/java/hu/pe/nes/sendemail/controller/SendeMailController.java
+/home/lucas/Digital/spring-boot/send-email/src/main/java/hu/pe/nes/sendemail/SendEmailApplication.java
+/home/lucas/Digital/spring-boot/send-email/src/main/java/hu/pe/nes/sendemail/modal/EmailModal.java
+/home/lucas/Digital/spring-boot/send-email/src/main/java/hu/pe/nes/sendemail/service/EmailServiceImpl.java
