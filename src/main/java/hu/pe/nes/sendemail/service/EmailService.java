@@ -8,12 +8,12 @@ import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Component;
 
 @Component
-public class EmailServiceImpl {
+public class EmailService {
 	
 	private JavaMailSender javaMailSender;
 	 
     @Autowired
-    public EmailServiceImpl(JavaMailSender javaMailSender) {
+    public EmailService(JavaMailSender javaMailSender) {
         this.javaMailSender = javaMailSender;
     }
     
